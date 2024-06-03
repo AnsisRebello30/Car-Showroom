@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(45deg, rgb(96, 96, 107), rgb(47, 161, 161));
+    border-radius: 15px;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.card-title1{
+    color: black;
+    text-decoration: none;
+}
+
+.card-title2{
+    color: black;
+    text-decoration: none;
+}

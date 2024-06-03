@@ -1,0 +1,43 @@
+.header{
+    text-align: center;
+    padding: 5px;
+    background: linear-gradient(45deg, rgb(96, 96, 107), rgb(47, 161, 161));
+    border-radius: 15px;
+}
+
+.text{
+    font-size: 40px;
+}
+
+.text1{
+   padding: 20px;
+   color: rgb(64, 64, 172);
+}
+
+.calc{
+    padding-right: 30px;
+    text-decoration: none;
+    color: blue;
+}
+
+.btn1{
+    color: rgb(56, 133, 56);
+    background-color: white;
+    border-color: aquamarine;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn2{
+    font-size: 40px;
+    color: white;
+    background-color: rgb(132, 56, 56);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn2:hover{
+    background-color: rgb(229, 16, 16);
+}
+
+    
